@@ -2,8 +2,8 @@
 
 Instructions for running the test:
 1) After cloning the project, open Eclipse and import the project.
-2) Make sure Selenium jar is added to the project.
-3) Download chromedriver.exe and place it in "C:\Selenium\Jar Files and Drivers" directory.
+2) Make sure Selenium jar and testng jars are added to the project.
+3) Download chromedriver.exe and place it in "C:\Selenium\Jar Files and Drivers" directory. Build the project.
 4) Go to src/tests/SearchFlight.java. Right click and run as testng. 
 
 Test Case:
